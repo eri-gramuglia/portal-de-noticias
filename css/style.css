@@ -1,3 +1,4 @@
-h4 {
-  color: orange;
+.resaltarTexto {
+  font-style: italic;
+  font-weight: bold;
 }
