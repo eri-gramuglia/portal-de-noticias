@@ -1,10 +1,3 @@
-.card-body > a.btn-link:link {
-  color: lightgreen;
-  background-color: midnightblue;
-}
-.carousel-caption + h3 {
-  color: blue;
-}
-.carousel-caption + p {
-  color: blue;
+h4 {
+  color: orange;
 }
